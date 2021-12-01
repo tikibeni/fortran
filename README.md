@@ -14,7 +14,7 @@ than Fortran!
 ~/fortran/src$ ./main.out
 ```
 
-To compile you will need the GNU Fortran compiler, [gfortran](gcc.gnu.org/wiki/GFortran).
+To compile you will need the GNU Fortran compiler, [gfortran](https://gcc.gnu.org/wiki/GFortran).
 
 
 ## Documentation

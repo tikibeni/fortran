@@ -1,8 +1,9 @@
 # Fortran
 
-A course project regarding the UniHel course Scientific Computing II (FYS2085) (to be) made with none other
-than Fortran!
+A course project regarding the UniHel course Scientific Computing II (FYS2085) made with none other
+than Fortran (in Finnish)!
 
+The project is a simple epidemic simulator.
 
 ## Install & run
 
@@ -10,13 +11,16 @@ than Fortran!
 ~$ git clone git@github.com:tikibeni/fortran.git
 ~$ cd fortran
 ~/fortran$ cd src
-~/fortran/src$ gfortran -o main.out main.f90
-~/fortran/src$ ./main.out
+~/fortran/src$ make simulation
 ```
 
-To compile you will need the GNU Fortran compiler, [gfortran](https://gcc.gnu.org/wiki/GFortran).
+To compile you will need the GNU Fortran compiler, [gfortran](https://gcc.gnu.org/wiki/GFortran). You should use
+the makefile within the project.
 
+## Documentation (in Finnish for now)
 
-## Documentation
+Ajo-ohjeet [täältä](./run/README)
 
-The report for the project can be read [here](./doc/report.md).
+Kääntöohjeet [täältä](./src/README)
+
+Readme:t ovat toistaiseksi plain-tiedostona, koska mistä tahansa muusta saattaisi tulla arvostelussa miinuspisteitä.

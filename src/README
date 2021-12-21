@@ -1,0 +1,14 @@
+# Kääntöohjeet
+
+Ohjelman komponentit kääntyvät ajamisen yhteydessä makefilen ansiosta. Ajo-ohjeet löydät sijainnista ../run/README.
+
+Mikäli haluttaisiin pelkästään kääntää tiedostot, se onnistuupi komennolla
+
+make prog
+
+Komento muodostaa moduulit (functions.mod, people.mod) ja ajotiedostot (main.o, functions.o, people.o)
+
+Moduulit ja ajotiedostot saa siivottua kätevästi komennolla
+
+make clean
+

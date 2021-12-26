@@ -25,5 +25,3 @@ To use the makefile, you might need to install [Make](https://www.gnu.org/softwa
 Ajo-ohjeet [täältä](./run/README.md)
 
 Kääntöohjeet [täältä](./src/README.md)
-
-Readme:t ovat toistaiseksi plain-tiedostona, koska mistä tahansa muusta saattaisi tulla arvostelussa miinuspisteitä.
